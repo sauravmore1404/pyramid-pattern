@@ -1,0 +1,23 @@
+body{
+  display: block;
+}
+#userInput{
+    width: 25%;
+  }
+  .btnRapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+  }
+  .innerRapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+  }
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
